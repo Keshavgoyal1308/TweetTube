@@ -5,9 +5,10 @@ import morgan from "morgan";
 
 const app = new express();
 
+const allowedOrigins = ['http://localhost:5173', 'http://localhost:3000'];
 app.use(
     cors({
-        origin: process.env.CORS_ORIGIN,
+        origin: allowedOrigins,
         credentials: true,
     })
 );
