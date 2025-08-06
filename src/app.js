@@ -5,7 +5,7 @@ import morgan from "morgan";
 
 const app = new express();
 
-const allowedOrigins = ['https://tweet-tube-frontend-gamma.vercel.app/','http://localhost:5173', 'http://localhost:3000'];
+const allowedOrigins = ['https://tweet-tube-frontend-gamma.vercel.app','http://localhost:5173', 'http://localhost:3000'];
 app.use(
     cors({
         origin: allowedOrigins,
