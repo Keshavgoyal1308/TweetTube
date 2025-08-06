@@ -9,7 +9,7 @@ and also combines the tweet functionality from twitter into it. Find more about 
 
 | Content            | Link                                                                        |
 | -------------------| ----------------------------------------------------------------------------|
-| API Documentation  | [click here](https://documenter.getpostman.com/view/28570926/2s9YsNdVwW)    |
+| API Documentation  | [click here](https://aviation-explorer-91594634-7962142.postman.co/workspace/My-Workspace~3bf47b22-42ec-4b2a-956a-0148f3e3e833/collection/47129182-6c1c6737-684a-4351-86e5-4da0ea28c87a?action=share&creator=47129182&active-environment=47129182-07c048ae-79d5-4567-a998-ec4205113dac)    |
 | Model              | [click here ](https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj)         |
 
 ## Features
@@ -97,6 +97,4 @@ and also combines the tweet functionality from twitter into it. Find more about 
 
 If you wish to contribute to this project, please feel free to contribute.
 
-## License
 
-This project is licensed under [ChaiAurCode](https://www.youtube.com/@chaiaurcode).
